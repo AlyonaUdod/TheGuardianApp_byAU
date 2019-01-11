@@ -1,0 +1,42 @@
+
+
+.wrapper {
+    width: 80%;
+    /* min-height: 100vh; */
+    margin: 1.5rem auto;
+    padding: 2rem 0;
+    /* border:1px solid grey; */
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-title {
+    margin-bottom: .8rem;
+}
+.main-button{
+    margin-bottom: 1.5rem;
+ }
+
+ .accordion-wrapper {
+    margin-top: 1.5rem;
+ }
+
+.content-body {
+    padding: 2rem 0;
+}
+
+.news-link {
+    cursor: pointer;
+    color: rgb(180, 0, 0);
+    text-decoration-line: underline 
+}
+
+.news-link:hover {
+    color: rgb(240, 0, 0);
+} 
+
+.link:hover {
+    color: rgb(129, 16, 129);
+}
