@@ -4,32 +4,28 @@ self.__precacheManifest = [
     "url": "/TheGuardianApp_byAU/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "41fb5a2bfeaabb635401",
-    "url": "/TheGuardianApp_byAU/static/css/main.f2bc492d.chunk.css"
+    "revision": "6ee1373a586d10ba6c05",
+    "url": "/TheGuardianApp_byAU/static/css/main.ebec5616.chunk.css"
   },
   {
     "revision": "a1a749e89f578a49306ec2b055c073da",
     "url": "/TheGuardianApp_byAU/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "94faeb8ea8d885ed82dc",
-    "url": "/TheGuardianApp_byAU/static/js/1.94faeb8e.chunk.js"
+    "revision": "4d196c261e8bc944c22f",
+    "url": "/TheGuardianApp_byAU/static/js/1.4d196c26.chunk.js"
   },
   {
     "revision": "9048f6c90fd7da6157bd",
     "url": "/TheGuardianApp_byAU/static/js/runtime~main.9048f6c9.js"
   },
   {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/TheGuardianApp_byAU/static/media/outline-icons.cd6c777f.woff2"
-  },
-  {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/TheGuardianApp_byAU/static/media/outline-icons.ef60a4f6.woff"
   },
   {
-    "revision": "9c74e172f87984c48ddf5c8108cabe67",
-    "url": "/TheGuardianApp_byAU/static/media/flags.9c74e172.png"
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/TheGuardianApp_byAU/static/media/outline-icons.cd6c777f.woff2"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
@@ -40,12 +36,16 @@ self.__precacheManifest = [
     "url": "/TheGuardianApp_byAU/static/media/outline-icons.ad97afd3.ttf"
   },
   {
+    "revision": "9c74e172f87984c48ddf5c8108cabe67",
+    "url": "/TheGuardianApp_byAU/static/media/flags.9c74e172.png"
+  },
+  {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
     "url": "/TheGuardianApp_byAU/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "41fb5a2bfeaabb635401",
-    "url": "/TheGuardianApp_byAU/static/js/main.41fb5a2b.chunk.js"
+    "revision": "6ee1373a586d10ba6c05",
+    "url": "/TheGuardianApp_byAU/static/js/main.6ee1373a.chunk.js"
   },
   {
     "revision": "e8c322de9658cbeb8a774b6624167c2c",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/TheGuardianApp_byAU/static/media/icons.8e3c7f55.eot"
   },
   {
-    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
-    "url": "/TheGuardianApp_byAU/static/media/icons.b87b9ba5.ttf"
-  },
-  {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
     "url": "/TheGuardianApp_byAU/static/media/brand-icons.13db00b7.eot"
+  },
+  {
+    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
+    "url": "/TheGuardianApp_byAU/static/media/icons.b87b9ba5.ttf"
   },
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
@@ -80,11 +80,11 @@ self.__precacheManifest = [
     "url": "/TheGuardianApp_byAU/static/media/icons.962a1bf3.svg"
   },
   {
-    "revision": "94faeb8ea8d885ed82dc",
-    "url": "/TheGuardianApp_byAU/static/css/1.598eda85.chunk.css"
+    "revision": "4d196c261e8bc944c22f",
+    "url": "/TheGuardianApp_byAU/static/css/1.63ee71ac.chunk.css"
   },
   {
-    "revision": "2e2868c74dd8b698ec9068807c989e6b",
+    "revision": "7f0b7b45d1a0a51a37c33177d3707960",
     "url": "/TheGuardianApp_byAU/index.html"
   }
 ];
