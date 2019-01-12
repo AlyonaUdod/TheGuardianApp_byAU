@@ -1,16 +1,16 @@
 {
-  "main.css": "/TheGuardianApp_byAU/static/css/main.ebec5616.chunk.css",
-  "main.js": "/TheGuardianApp_byAU/static/js/main.13e77093.chunk.js",
-  "main.js.map": "/TheGuardianApp_byAU/static/js/main.13e77093.chunk.js.map",
+  "main.css": "/TheGuardianApp_byAU/static/css/main.ac60956b.chunk.css",
+  "main.js": "/TheGuardianApp_byAU/static/js/main.ed7b94aa.chunk.js",
+  "main.js.map": "/TheGuardianApp_byAU/static/js/main.ed7b94aa.chunk.js.map",
   "static/css/1.63ee71ac.chunk.css": "/TheGuardianApp_byAU/static/css/1.63ee71ac.chunk.css",
   "static/js/1.4d196c26.chunk.js": "/TheGuardianApp_byAU/static/js/1.4d196c26.chunk.js",
   "static/js/1.4d196c26.chunk.js.map": "/TheGuardianApp_byAU/static/js/1.4d196c26.chunk.js.map",
   "runtime~main.js": "/TheGuardianApp_byAU/static/js/runtime~main.9048f6c9.js",
   "runtime~main.js.map": "/TheGuardianApp_byAU/static/js/runtime~main.9048f6c9.js.map",
   "static/media/semantic.min.css": "/TheGuardianApp_byAU/static/media/brand-icons.a1a749e8.svg",
+  "static/css/main.ac60956b.chunk.css.map": "/TheGuardianApp_byAU/static/css/main.ac60956b.chunk.css.map",
   "static/css/1.63ee71ac.chunk.css.map": "/TheGuardianApp_byAU/static/css/1.63ee71ac.chunk.css.map",
-  "static/css/main.ebec5616.chunk.css.map": "/TheGuardianApp_byAU/static/css/main.ebec5616.chunk.css.map",
   "index.html": "/TheGuardianApp_byAU/index.html",
-  "precache-manifest.5fb67da1eeb291097a86ecde5f658e55.js": "/TheGuardianApp_byAU/precache-manifest.5fb67da1eeb291097a86ecde5f658e55.js",
+  "precache-manifest.fa05be5c5de8846c7b45e0383190fe52.js": "/TheGuardianApp_byAU/precache-manifest.fa05be5c5de8846c7b45e0383190fe52.js",
   "service-worker.js": "/TheGuardianApp_byAU/service-worker.js"
 }
