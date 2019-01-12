@@ -1,7 +1,7 @@
 {
   "main.css": "/TheGuardianApp_byAU/static/css/main.ebec5616.chunk.css",
-  "main.js": "/TheGuardianApp_byAU/static/js/main.6ee1373a.chunk.js",
-  "main.js.map": "/TheGuardianApp_byAU/static/js/main.6ee1373a.chunk.js.map",
+  "main.js": "/TheGuardianApp_byAU/static/js/main.13e77093.chunk.js",
+  "main.js.map": "/TheGuardianApp_byAU/static/js/main.13e77093.chunk.js.map",
   "static/css/1.63ee71ac.chunk.css": "/TheGuardianApp_byAU/static/css/1.63ee71ac.chunk.css",
   "static/js/1.4d196c26.chunk.js": "/TheGuardianApp_byAU/static/js/1.4d196c26.chunk.js",
   "static/js/1.4d196c26.chunk.js.map": "/TheGuardianApp_byAU/static/js/1.4d196c26.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/1.63ee71ac.chunk.css.map": "/TheGuardianApp_byAU/static/css/1.63ee71ac.chunk.css.map",
   "static/css/main.ebec5616.chunk.css.map": "/TheGuardianApp_byAU/static/css/main.ebec5616.chunk.css.map",
   "index.html": "/TheGuardianApp_byAU/index.html",
-  "precache-manifest.c2b26adfe5a8cb0a81cf9f21ca218394.js": "/TheGuardianApp_byAU/precache-manifest.c2b26adfe5a8cb0a81cf9f21ca218394.js",
+  "precache-manifest.5fb67da1eeb291097a86ecde5f658e55.js": "/TheGuardianApp_byAU/precache-manifest.5fb67da1eeb291097a86ecde5f658e55.js",
   "service-worker.js": "/TheGuardianApp_byAU/service-worker.js"
 }

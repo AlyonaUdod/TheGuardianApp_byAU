@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/TheGuardianApp_byAU/precache-manifest.c2b26adfe5a8cb0a81cf9f21ca218394.js"
+  "/TheGuardianApp_byAU/precache-manifest.5fb67da1eeb291097a86ecde5f658e55.js"
 );
 
 workbox.clientsClaim();
